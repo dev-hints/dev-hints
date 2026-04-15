@@ -22,8 +22,8 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 
 ```bash
 [+] Initializing user environment...
-[+] Name: Ayush
-[+] Status: Online & Hacking
+[+] Name: Ayush Kumar Maurya
+[+] Status: Online & Developing
 [+] Designation: Full Stack Developer / Open Source Enthusiast
 
 > I love building tools that automate the boring stuff.
@@ -37,7 +37,7 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,python,js,ts,react,nodejs,mongodb,postgres&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,python,js,ts,react,nodejs,java,c,cpp,mongodb,postgres&theme=dark" alt="Skills" />
   </a>
 </p>
 
