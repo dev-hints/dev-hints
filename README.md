@@ -56,6 +56,7 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
       "status": "[██████████] 100% - Deployed",
       "repo": "https://github.com/dev-hints/CalcCosmos"
     },
+    {
       "id": "0x02",
       "name": "Cosmic Notes App",
       "description": "A visually stunning modern Notes App ",
