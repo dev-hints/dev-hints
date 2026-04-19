@@ -37,7 +37,7 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,python,js,ts,react,nodejs,java,c,cpp,mongodb,postgres&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,c,c++,java,python,js,ts,react,nodejs,mongodb,postgres&theme=dark" alt="Skills" />
   </a>
 </p>
 
@@ -51,24 +51,30 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
   "active_projects": [
     {
       "id": "0x01",
-      "name": "Project Alpha",
-      "description": "High-performance data visualizer",
+      "name": "CalcCosmos",
+      "description": "Modern Scientific Calculator",
       "status": "[██████████] 100% - Deployed",
-      "repo": "https://github.com/yourusername/project-alpha"
+      "repo": "https://github.com/dev-hints/CalcCosmos"
     },
-    {
       "id": "0x02",
-      "name": "TermFetch",
-      "description": "A blazing fast system info script",
-      "status": "[███████░░░] 70%  - In Progress",
-      "repo": "https://github.com/yourusername/termfetch"
+      "name": "Cosmic Notes App",
+      "description": "A visually stunning modern Notes App ",
+      "status": "[██████████] 100% - Deployed",
+      "repo": "https://github.com/dev-hints/Notes-App"
     },
     {
       "id": "0x03",
-      "name": "SecureChat",
-      "description": "E2E encrypted terminal chat application",
+      "name": "CosmosChat",
+      "description": "E2E secure encrypted terminal chat application",
+      "status": "[███████░░░] 70%  - In Progress",
+      "repo": "https://github.com/dev-hints/CosmosChat"
+    },
+    {
+      "id": "0x04",
+      "name": "Steganography",
+      "description": "Steganography project developed in python",
       "status": "[██████████] 100% - Deployed",
-      "repo": "https://github.com/yourusername/securechat"
+      "repo": "https://github.com/dev-hints/Steganography"
     }
   ]
 }
@@ -79,14 +85,14 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 ## `> htop --user ayush --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-hints&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hints&theme=tokyonight&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hints&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00" width="48%" alt="Top Languages" />
 </div>
 
 ---
@@ -95,10 +101,10 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 
 ```bash
 PING contact.ayush.net (127.0.0.1): 56 data bytes
-64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.042 ms -> [Email](mailto:your.email@example.com)
-64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.038 ms -> [LinkedIn](https://linkedin.com/in/yourusername)
-64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.035 ms -> [Twitter/X](https://twitter.com/yourhandle)
-64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.040 ms -> [Portfolio Website](https://yourwebsite.com)
+64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.042 ms -> [Email](mailto:kumarmauryaaayush@gmail.com)
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.038 ms -> [LinkedIn](https://www.linkedin.com/in/ayush-kumar-maurya/)
+64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.035 ms -> [Twitter/X](https://x.com/iush_sri)
+64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.040 ms -> [Portfolio Website](https://dev-hints.github.io/)
 
 --- contact.ayush.net ping statistics ---
 4 packets transmitted, 4 packets received, 0% packet loss
