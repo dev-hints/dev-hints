@@ -65,7 +65,7 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
     {
       "id": "0x03",
       "name": "CosmosChat",
-      "description": "E2E encrypted terminal chat application",
+      "description": "E2E secure encrypted terminal chat application",
       "status": "[███████░░░] 70%  - In Progress",
       "repo": "https://github.com/dev-hints/CosmosChat"
     },
