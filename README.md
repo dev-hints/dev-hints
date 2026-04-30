@@ -37,7 +37,11 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
+<<<<<<< HEAD
     <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,c,c++,java,python,js,ts,react,nodejs,mongodb,postgres&theme=dark" alt="Skills" />
+=======
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,c,cpp,java,python,js,ts,react,nodejs,mongodb,postgres&theme=dark" alt="Skills" />
+>>>>>>> 3ddad7ab0fcaf13cf3230f2fdaa4d27f460d096a
   </a>
 </p>
 
@@ -51,6 +55,7 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
   "active_projects": [
     {
       "id": "0x01",
+<<<<<<< HEAD
       "name": "Infinity-Browser",
       "description": "A fast, private desktop web browser built for Windows and Linux",
       "status": "[██████████] 100% - Deployed",
@@ -89,6 +94,32 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
       "name": "Steganography",
       "description": "Steganography project developed in python",
       "status": "[██████████] 100% - Deployed",
+=======
+      "name": "CalcCosmos",
+      "description": "Modern Scientific Calculator",
+      "status": "[██████████] 100% - Deployed",
+      "repo": "https://github.com/dev-hints/CalcCosmos"
+    },
+    {
+      "id": "0x02",
+      "name": "Cosmic Notes App",
+      "description": "A visually stunning modern Notes App ",
+      "status": "[██████████] 100% - Deployed",
+      "repo": "https://github.com/dev-hints/Notes-App"
+    },
+    {
+      "id": "0x03",
+      "name": "CosmosChat",
+      "description": "E2E secure encrypted terminal chat application",
+      "status": "[███████░░░] 70%  - In Progress",
+      "repo": "https://github.com/dev-hints/CosmosChat"
+    },
+    {
+      "id": "0x04",
+      "name": "Steganography",
+      "description": "Steganography project developed in python",
+      "status": "[██████████] 100% - Deployed",
+>>>>>>> 3ddad7ab0fcaf13cf3230f2fdaa4d27f460d096a
       "repo": "https://github.com/dev-hints/Steganography"
     }
   ]
