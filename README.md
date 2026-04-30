@@ -37,7 +37,7 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,c,c++,java,python,js,ts,react,nodejs,mongodb,postgres&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,docker,c,cpp,java,python,js,ts,react,nodejs,mongodb,postgres&theme=dark" alt="Skills" />
   </a>
 </p>
 
