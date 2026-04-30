@@ -51,27 +51,41 @@ ayush:x:1000:1000:Ayush (Full Stack & Systems Developer),,,:/home/ayush:/bin/zsh
   "active_projects": [
     {
       "id": "0x01",
+      "name": "Infinity-Browser",
+      "description": "A fast, private desktop web browser built for Windows and Linux",
+      "status": "[██████████] 100% - Deployed",
+      "repo": "https://github.com/dev-hints/infinity-browser.git"
+    },
+    {
+      "id": "0x02",
+      "name": "2048-Nexus",
+      "description": "A production-grade 2048 desktop game for Windows and Linux",
+      "status": "[██████████] 100% - Deployed",
+      "repo": "https://github.com/dev-hints/2048-Nexus.git"
+    },
+    {
+      "id": "0x03",
       "name": "CalcCosmos",
       "description": "Modern Scientific Calculator",
       "status": "[██████████] 100% - Deployed",
       "repo": "https://github.com/dev-hints/CalcCosmos"
     },
     {
-      "id": "0x02",
+      "id": "0x04",
       "name": "Cosmic Notes App",
       "description": "A visually stunning modern Notes App ",
       "status": "[██████████] 100% - Deployed",
       "repo": "https://github.com/dev-hints/Notes-App"
     },
     {
-      "id": "0x03",
+      "id": "0x05",
       "name": "CosmosChat",
       "description": "E2E secure encrypted terminal chat application",
       "status": "[███████░░░] 70%  - In Progress",
       "repo": "https://github.com/dev-hints/CosmosChat"
     },
     {
-      "id": "0x04",
+      "id": "0x06",
       "name": "Steganography",
       "description": "Steganography project developed in python",
       "status": "[██████████] 100% - Deployed",
